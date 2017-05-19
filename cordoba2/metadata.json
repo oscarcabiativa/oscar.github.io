@@ -1,0 +1,14 @@
+{
+  "name": "Mapa de Cordoba2",
+  "version": "1.0.0",
+  "description": "Servicio WMTS del municipio de Cordoba",
+  "attribution": "OSM", 
+  "type": "baselayer",
+  "color": "#FFFFFF",
+  "format": "jpg",
+  "minzoom": "6",
+  "maxzoom": "14",
+  "bounds": "-74.99609,5.76860,-78.54210,11.25371",
+  "scale": "1",
+  "profile": "mercator"
+}
